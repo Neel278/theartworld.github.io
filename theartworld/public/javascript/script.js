@@ -37,6 +37,7 @@ var swiper = new Swiper('.swiper-container', {
     effect: 'coverflow',
     grabCursor: true,
     centeredSlides: true,
+    loop: true,
     slidesPerView: 'auto',
     coverflowEffect: {
         rotate: 80,
@@ -47,6 +48,10 @@ var swiper = new Swiper('.swiper-container', {
     },
     keyboard: {
         enabled: true,
+    },
+    autoplay: {
+        delay: 2000,
+        disableOnInteraction: false,
     },
     pagination: {
         el: '.swiper-pagination',

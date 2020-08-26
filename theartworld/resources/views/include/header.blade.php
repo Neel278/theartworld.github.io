@@ -21,9 +21,9 @@
         crossorigin="anonymous"
     />
     <!-- Swiper JS CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.css"/>
-    <link rel="stylesheet" href="https://unpkg.com/swiper/css/swiper.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/5.4.5/css/swiper.min.css"/>
     <!-- Own Stylesheet -->
-    <link rel="stylesheet" href="./css/style.css"/>
+    <link rel="stylesheet" href="./style/style.css"/>
 </head>
 <body>
